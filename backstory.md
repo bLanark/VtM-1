@@ -1,8 +1,8 @@
 
 ## Life in Germany
 Born in Essen in 1972 and then moved to Berlin for education during their teenage years. Born <firstname> Ida <surname> They started messing around with computers and hacking at that time.
-Heavily influenced by gibbson (Used Legba as an early handle)
 
+Heavily influenced by gibbson (Used Legba as an early handle)
 
 ## Prison 
 Something something something prison 
